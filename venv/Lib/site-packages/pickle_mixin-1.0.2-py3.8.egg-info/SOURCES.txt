@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pickle_mixin/__init__.py
+pickle_mixin/core.py
+pickle_mixin.egg-info/PKG-INFO
+pickle_mixin.egg-info/SOURCES.txt
+pickle_mixin.egg-info/dependency_links.txt
+pickle_mixin.egg-info/top_level.txt
+pickle_mixin.egg-info/zip-safe
+pickle_mixin/test/test_pickle_by_init.py
+pickle_mixin/test/test_pickle_mixin.py
