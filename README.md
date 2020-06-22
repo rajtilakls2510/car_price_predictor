@@ -1,8 +1,10 @@
 # Car Price Predictor
 
-Demo Image: <img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/demo.png">
-
 Project link: https://car-price-price.herokuapp.com
+
+<img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/demo.png">
+
+
 
 # Aim
 
