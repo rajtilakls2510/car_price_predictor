@@ -33,18 +33,20 @@ And you are good to go.
 1. This project takes the parameters of an used car like: Company name, Model name, Year of Purchase, Fuel Type and Number of Kilometers it has been driven.
 2. It then predicts the possible price of the car. For example, the image below shows the predicted price of our Hyundai Grand i10. 
 
-<img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/predict.png">
+<img src="https://github.com/akshaysonu777/car_price_predictor/blob/master/predict.png">
 
 ## How this project does?
 
 1. First of all the data was scraped from Quikr.com (https://quikr.com) 
-Link for data: https://github.com/rajtilakls2510/car_price_predictor/blob/master/quikr_car.csv
+Link for data: https://github.com/akshaysonu777
+
+/car_price_predictor/blob/master/quikr_car.csv
 
 2. The data was cleaned (it was super unclean :( ) and analysed.
 
 3. Then a Linear Regression model was built on top of it which had 0.92 R2_score.
 
-Link for notebook: https://github.com/rajtilakls2510/car_price_predictor/blob/master/Quikr%20Analysis.ipynb
+Link for notebook: https://github.com/akshaysonu777/car_price_predictor/blob/master/Quikr%20Analysis.ipynb
 
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
 
